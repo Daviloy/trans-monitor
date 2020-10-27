@@ -1,0 +1,29 @@
+.sidebar {
+    flex: 0.25;
+    padding: 30px 0 30px 5px;
+    width: 345px;
+}
+
+.sidebar__button {
+    padding: 0 30px;
+}
+
+.sidebar__button .MuiButtonBase-root {
+    background-color: #5cb85c !important;
+    border-radius: 20px !important;
+    color: #ffffff !important;
+}
+
+.sidebar__main,
+.sidebar__payments,
+.sidebar__orders {
+    margin-top: 50px;
+}
+
+.sidebar__main h3,
+.sidebar__payments h3,
+.sidebar__orders h3 {
+    font-size: 14.5px;
+    font-weight: normal;
+    padding: 0 30px;
+}

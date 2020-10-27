@@ -1,0 +1,32 @@
+.divider {
+    display: block;
+    border-radius: 5px;
+    height: 4px;
+    margin-bottom: 13px;
+    position: relative;
+    width: 100%;
+}
+
+.divider::-ms-progress-value {
+    background-color: #5cb85c;
+}
+
+.divider::-webkit-progress-value {
+    background-color: #5cb85c;
+}
+
+.divider::-moz-progress-value {
+    background-color: #5cb85c;
+}
+
+.divider::-ms-progress-bar {
+    background-color: rgb(255, 127, 80);
+}
+
+.divider::-webkit-progress-bar {
+    background-color: rgb(255, 127, 80);
+}
+
+.divider::-moz-progress-bar {
+    background-color: rgb(255, 127, 80);
+}

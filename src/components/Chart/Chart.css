@@ -1,0 +1,19 @@
+.chart {
+    background-color: #ffffff;
+    flex: 0.7;
+    padding: 30px;
+}
+
+.chart__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart__interaction {
+    display: flex;
+    align-items: center;
+}
+
+.chart__buttons {
+    margin-left: 20px;
+}

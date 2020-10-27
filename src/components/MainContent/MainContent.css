@@ -1,0 +1,10 @@
+.main-content {
+    background-color: #f4f4f4;
+    flex: 0.75;
+    padding: 30px;
+}
+
+.main-content__data {
+    display: flex;
+    margin-top: 40px;
+}

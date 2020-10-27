@@ -1,0 +1,13 @@
+.payments-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.payments-header__filter {
+    display: flex;
+}
+
+.payments-header__filter p {
+    margin-right: 25px;
+}

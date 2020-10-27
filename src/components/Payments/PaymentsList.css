@@ -1,0 +1,17 @@
+.payment-list {
+    border-spacing: 0;
+    width: 100%;
+}
+
+.payment-list__header {
+    background-color: #eeeeee;
+}
+
+.payment-list__header th {
+    font-weight: normal;
+    padding: 15px;
+}
+
+.payment-list__body {
+    text-align: center;
+}

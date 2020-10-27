@@ -1,0 +1,35 @@
+.payment-item {
+    background-color: #ffffff;
+    border-bottom: 10px solid #aaaaaa;
+}
+
+.payment-item td {
+    padding: 15px 25px;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+.payment-item__type {
+    display: flex;
+}
+
+.payment-item__type p {
+    margin-left: 20px;
+}
+
+/* .payment-item {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 25px;
+    text-align: center;
+}
+
+.payment-item:not(:last-child) {
+    border-bottom: 1px solid #aaa;
+}
+
+.payment-item__type {
+    display: flex;
+    align-items: center;
+} */

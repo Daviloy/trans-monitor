@@ -1,0 +1,21 @@
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.search__icon {
+    color: var(--light-color) !important;
+}
+
+.search__input {
+    border: none;
+    font-size: 1rem;
+    margin-left: 0.5rem;
+    padding: 10px 15px;
+    width: 100%;
+}
+
+.payment-search {
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ddd;
+}

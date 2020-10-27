@@ -1,0 +1,14 @@
+.navbar {
+    border-bottom: 1px solid lightgray;
+    box-shadow: 1px 1px 5px lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+}
+
+.navbar__logo {
+    color: blue;
+    font-size: 33px;
+    font-weight: 900;
+}
